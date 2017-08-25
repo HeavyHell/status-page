@@ -10,36 +10,30 @@
 
 ![Image](https://default12-16.abcdusercontent.com/00/28/76/2016/08/16/0dea12.jpg)
 
-**Сразу после вписываем ключ от домена в строчку api-key в файле main.js, id служит для вывода статуса домена в HTML**:
+**Сразу после вписываем ключ в строчку api-key в файле main.js, id служит для вывода статуса домена в HTML**:
 
 ![Image](https://default12-16.abcdusercontent.com/00/28/76/2016/09/09/287076.png)
 
+### Готово!
 
+## Отказ от ответственности
+Разработчик не несёт ответственности за работоспособность скрипта. Функционал был проверен на локальном компьютере и ошибок не найдено. Если Вы каким-либо образом изменили код в скрипте - Вы возлогаете на себя полную ответственность, за допущеные ошибки и его дальнейшую неработоспособность.
 
-```markdown
-Syntax highlighted code block
+ 
+### Распостранение и адаптация
+Вы можете свободно:
+* «Делиться» (обмениваться)
+* «Адаптировать» (создавать производные материалы)
+* «NonCommercial» («Некоммерческое использование») 
+* «ShareAlike» («На тех же условиях»)
 
-# Header 1
-## Header 2
-### Header 3
+Без дополнительных ограничений — Вы не вправе применять юридические ограничения или технологические меры, создающие другим юридические препятствия в выполнении чего-либо из того, что разрешено лицензией. 
 
-- Bulleted
-- List
+Подробнее: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru
 
-1. Numbered
-2. List
+### Связь с автором
+Telegram: @chaon
 
-**Bold** and _Italic_ and `Code` text
+VKontakte: @chaon
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VQO/status-page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+E-mail: north@dedic.org
