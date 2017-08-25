@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## StatusPage.XYZ
 
-You can use the [editor on GitHub](https://github.com/VQO/status-page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Этот скрипт был разработан специально для того, чтобы облегчить себе жизнь и не использовать [PHP Server Monitor](https://www.phpservermonitor.org/). Простой дизайн и максимальный функционал.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Сам движок максимально простой. HTML + CSS + Javascript. Другого в нём не дано. **Для настройки нужны лишь прямые руки.**
 
 ### Markdown
 
