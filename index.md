@@ -10,7 +10,8 @@
 
 ![Image](https://default12-16.abcdusercontent.com/00/28/76/2016/08/16/0dea12.jpg)
 
-Сразу после вписываем ключ от домена в строчку api-key в файле main.js, id служит для вывода статуса домена в HTML:
+**Сразу после вписываем ключ от домена в строчку api-key в файле main.js, id служит для вывода статуса домена в HTML**:
+
 ![Image](https://default12-16.abcdusercontent.com/00/28/76/2016/09/09/287076.png)
 
 
