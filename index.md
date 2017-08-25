@@ -2,11 +2,18 @@
 
 Этот скрипт был разработан специально для того, чтобы облегчить себе жизнь и не использовать [PHP Server Monitor](https://www.phpservermonitor.org/). Простой дизайн и максимальный функционал.
 
-Сам движок максимально простой. HTML + CSS + Javascript. Другого в нём не дано. **Для настройки нужны лишь прямые руки.**
+Сам движок максимально простой. HTML + CSS + Javascript. Другого в нём не дано. **Для настройки нужны лишь прямые руки. Настройка описана масимально просто.**
 
-### Markdown
+### Настройка
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Для начала зарегистрируйтесь на сайте (uptimerobot.com), подтвердите e-mail. На странице (https://uptimerobot.com/dashboard) нажмите на "+ Monitor" — > Monitor Type — «Http(S)» -> укажите свой сайт или суб-домен (интервал выберите сами) -> перейдите на страничку (https://uptimerobot.com/dashboard#mySettings), выберите домен и нажмите на зеленую кнопку, в итоге получим код.
+
+![Image](https://default12-16.abcdusercontent.com/00/28/76/2016/08/16/0dea12.jpg)
+
+Сразу после вписываем ключ от домена в строчку api-key в файле main.js, id служит для вывода статуса домена в HTML:
+![Image](https://default12-16.abcdusercontent.com/00/28/76/2016/09/09/287076.png)
+
+
 
 ```markdown
 Syntax highlighted code block
