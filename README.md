@@ -6,7 +6,7 @@
 
 ### Настройка
 
-Для начала зарегистрируйтесь на сайте (uptimerobot.com), подтвердите e-mail. На странице (https://uptimerobot.com/dashboard) нажмите на "+ Monitor" — > Monitor Type — «Http(S)» -> укажите свой сайт или суб-домен (интервал выберите сами) -> перейдите на страничку (https://uptimerobot.com/dashboard#mySettings), выберите домен и нажмите на зеленую кнопку, в итоге получим код.
+Для начала зарегистрируйтесь на сайте (uptimerobot.com), подтвердите e-mail. На странице [https://uptimerobot.com/dashboard](https://uptimerobot.com/dashboard) нажмите на "+ Monitor" — > Monitor Type — «Http(S)» -> укажите свой сайт или суб-домен (интервал выберите сами) -> перейдите на страничку [https://uptimerobot.com/dashboard#mySettings](https://uptimerobot.com/dashboard#mySettings), выберите домен и нажмите на зеленую кнопку, в итоге получим код.
 
 ![Image](https://default12-16.abcdusercontent.com/00/28/76/2016/08/16/0dea12.jpg)
 
@@ -33,12 +33,12 @@
 
 Без дополнительных ограничений — Вы не вправе применять юридические ограничения или технологические меры, создающие другим юридические препятствия в выполнении чего-либо из того, что разрешено лицензией. 
 
-Подробнее: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru
+Подробнее: [«Атрибуция — Некоммерческое использование — На тех же условиях» 4.0 Всемирная](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru)
 
 ### Связь с автором
-Telegram: @chaon
+Telegram: t.me/@chaon
 
-VKontakte: @chaon
+VKontakte: vk.com/@chaon
 
 E-mail: north@dedic.org
 
